@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Palak Sarna!  
 🔍 **AI Enthusiast | Aspiring AI Engineer | Lifelong Learner**  
 🚀 I’m passionate about leveraging Artificial Intelligence to solve real-world problems and create innovative solutions.
+<br>
 🌱 **Currently Learning:**  
 - Deep Learning (CNNs, RNNs, and Transformers)  
 - Frameworks: TensorFlow, PyTorch  

@@ -7,7 +7,7 @@
 - Frameworks: TensorFlow, PyTorch  
 
 👀 **Interested In:**  
-- Artificial Intelligence in Healthcare  
+- Artificial Intelligence  
 - Generative AI and Natural Language Processing  
 - Building scalable AI-powered applications  
 

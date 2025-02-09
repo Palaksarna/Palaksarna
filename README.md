@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Palak Sarna!  
-🔍 **AI Enthusiast | Aspiring AI Engineer | Lifelong Learner**  
+🔍 **AI Enthusiast | Aspiring AI Engineer**  
 🚀 I’m passionate about leveraging Artificial Intelligence to solve real-world problems and create innovative solutions.
 <br>
 <br>
